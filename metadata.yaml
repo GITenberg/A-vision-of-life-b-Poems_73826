@@ -1,0 +1,43 @@
+_repo: A-vision-of-life-b-Poems_73826
+_version: 0.0.1
+contributor:
+  contributor:
+    agent_name: Chesterton, G. K. (Gilbert Keith)
+    aliases:
+    - Chesterton, Gilbert Keith
+    - Chesterton, Gilbert K. (Gilbert Keith)
+    birthdate: 1874
+    deathdate: 1936
+    gutenberg_agent_id: '80'
+    url: http://www.gutenberg.org/2009/agents/80
+    wikipedia: https://en.wikipedia.org/wiki/G._K._Chesterton
+creator:
+  author:
+    agent_name: Figgis, Darrell
+    alias: Ireland, Michael
+    birthdate: 1882
+    deathdate: 1925
+    gutenberg_agent_id: '35941'
+    url: http://www.gutenberg.org/2009/agents/35941
+    wikipedia: https://en.wikipedia.org/wiki/Darrell_Figgis
+description: ''
+gutenberg_issued: '2024-06-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73826'
+language: en
+pgterms:marc904: https://archive.org/details/visionoflifepoem00figgrich/page/n3/mode/2up
+pgterms:marc905: 20240304205116figgis
+pgterms:marc906: '1909'
+pgterms:marc907: GB
+production_note: Jamie Brydone-Jack, Joeri de Ruiter and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive)
+publication_note: '  $aLondon :$bJohn Lane, $c1909.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'A vision of life : $b Poems'
+url: http://www.gutenberg.org/ebooks/73826
