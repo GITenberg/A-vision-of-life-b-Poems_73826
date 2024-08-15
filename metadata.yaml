@@ -11,6 +11,9 @@ contributor:
     gutenberg_agent_id: '80'
     url: http://www.gutenberg.org/2009/agents/80
     wikipedia: https://en.wikipedia.org/wiki/G._K._Chesterton
+covers:
+- cover_type: archival
+  image_path: 73826-h/images/cover_small.jpg
 creator:
   author:
     agent_name: Figgis, Darrell
@@ -21,6 +24,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/35941
     wikipedia: https://en.wikipedia.org/wiki/Darrell_Figgis
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/73826#A-vision-of-life-b-Poems
 gutenberg_issued: '2024-06-14'
 gutenberg_type: Text
 identifiers:
